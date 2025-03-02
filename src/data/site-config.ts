@@ -80,7 +80,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'https://linked.com/in/JM432'
+            href: 'https://linked.com/in/jm432'
         },
         {
             text: 'Instagram',
