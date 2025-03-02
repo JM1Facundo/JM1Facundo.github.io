@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'JM',
-    subtitle: 'Hi, Iam JM1Facundo, but you can call me JM',
+    title: 'JM Facundo',
+    subtitle: 'Bachelor in Data Science',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
